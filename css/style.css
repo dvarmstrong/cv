@@ -1,0 +1,25 @@
+body {
+    background-color: #F9FFA4;
+}
+ hr {
+     background-color: none;
+     border-style: dotted none none ;
+     border-color: grey;
+     border-width: 10px;
+     width: 5%;
+     
+     
+ }
+ /* color all h1's */
+ h1 {
+     color: #65207a;
+     font-size: 50px;
+     
+ }
+
+    /* color all h2's */    
+
+ p {
+     font-style: sans-serif;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
